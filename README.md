@@ -1,2 +1,2 @@
-# alienInvasion_cpsc368
+# alien Invasion
 Alien Invasion game using python 
